@@ -9,4 +9,4 @@ const footyFortuneTeller = () => {
     console.log(`I can't tell you much, but I can give you one prediction with absolute certainty, I can tell you that ${timeline[randTime]}, the ${clubs[randClub]} will be ${evaluations[randEval]}`);
 }
 
-footyFortuneTeller('Essendon');
+footyFortuneTeller();
